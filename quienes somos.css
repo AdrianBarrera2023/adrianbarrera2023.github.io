@@ -1,0 +1,63 @@
+h1{
+    color: rgb(47, 223, 3);
+    font-size:45px;
+}
+a{
+    color: rgb(47, 223, 3);
+    font-size:45px;
+}
+p{
+    padding-left: 50px;
+    font-size: x-large;
+}
+.img1{
+    position: absolute;
+    padding-left: 800px;
+}
+h2{
+    padding-left: 50px;
+    font-size: xx-large;
+}
+.img2{
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 0px;
+}
+.img3{
+    position: absolute;
+    padding-left: 950px;
+}
+h3{
+    color: black;
+    font-size: xx-large;
+}
+.parafo{
+    color: black;
+    font-size: xx-large;
+}
+.nn{
+    padding-left: 410px;
+    color: rgb(47, 223, 3);
+    font-size: xx-large;
+}
+.t{
+    position: absolute;
+    padding-left: 75px;
+}
+.inp{
+    padding-left: 420px;
+}
+.men{
+    padding-left: 420px;
+}
+.lo{
+    position: absolute;
+}
+.log1{
+    position:absolute;
+    padding-left: 15px;
+    padding-top: 25px;
+}
+.in{
+    padding-left: 1100px;
+}
